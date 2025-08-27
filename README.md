@@ -6,17 +6,16 @@ Smart-Chat-AI is a ChatGPT (GPT-3) clone developed using the MERN stack and inte
 - Text Summarization  
 - Paragraph Generation  
 - Code Conversion  
-- AI Image Generation  
 
-> Note: OpenAI's free trial for API access expired on June 1, 2023. A valid API key is required for all AI functionalities.
+> Note: OpenAI's free trial for API access expired. A valid API key is required for all AI functionalities.
 
 ---
 
 ## Technology Stack
 
-- Frontend: React.js, Tailwind CSS  
+- Frontend: React.js, CSS  
 - Backend: Node.js, Express.js  
-- Database: MongoDB with Mongoose  
+- Database: MongoDB  
 - Authentication: JWT (JSON Web Token) only  
 - AI Integration: OpenAI GPT-3 API  
 
@@ -28,8 +27,7 @@ Smart-Chat-AI is a ChatGPT (GPT-3) clone developed using the MERN stack and inte
 - Real-time chatbot interaction powered by GPT-3  
 - Paragraph generation from custom prompts  
 - Text summarization of long-form content  
-- Code conversion across programming languages  
-- AI-based image generation from textual input  
+- Code conversion across programming languages    
 
 ---
 
@@ -42,3 +40,4 @@ Follow the steps below to run the application locally.
 ```bash
 git clone https://github.com/your-username/Smart-Chat-AI.git
 cd Smart-Chat-AI
+
